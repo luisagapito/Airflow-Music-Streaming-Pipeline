@@ -1,4 +1,4 @@
-# music-streaming-pipeline
+# Music Streaming Pipeline
 
 Creating a high grade data pipelines that are dynamic and built from reusable tasks, can be monitored, and allow easy backfills including data quality plays on top the data warehouse and running tests against their datasets after the ETL steps have been executed to catch any discrepancies in the datasets.
 
